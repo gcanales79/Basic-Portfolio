@@ -13,8 +13,52 @@ h1 {
     float: left;
 } 
 
+.header{
+    margin-bottom: 90px;
+    border: 2px solid;
+    
+}
+
+
+.about{
+    float:left;
+    border-right: 1px solid #dddddd;
+    margin-left: 600px;
+    width: 80px;
+    text-align:center;
+    margin-top: 20px;
+    height: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom:15px;
+    color: #666666
+}
+
+.portfolio{
+    float:left;
+    border-right: 1px solid #dddddd;
+    width:80px;
+    text-align: center;
+    margin-top:20px;
+    height: 40px;
+    font-size:15px;
+    font-weight: bold;
+    color: #666666
+}
+
+.contact{
+    float:left;
+    width: 80px;
+    text-align: center;
+    margin-top:20px;
+    height:40px;
+    font-size:15px;
+    font-weight: bold;
+    color: #666666
+}
+
 .main {
-    margin-top: 40px;
+    margin-top: 50px;
     width:960px;
     background-color:#ffffff;
     border-top: 30px solid #dddddd;
