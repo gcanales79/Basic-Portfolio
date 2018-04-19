@@ -161,3 +161,48 @@ input[type=submit]{
     height: 36px;
     font-weight: bold;
 }
+
+.imageleft{
+    margin-left:30px;
+    
+}
+
+.linktext{
+    background: #4aaaa5;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+    padding-top: 5px;
+    position:relative;
+    bottom: 80px;
+    
+}
+
+#secondimage{
+    position:relative;
+    left: 250px;
+    bottom: 258px;
+}
+
+#thirdimage{
+    position:relative;
+    bottom: 255px;
+}
+
+#forthimage{
+    position:relative;
+    left: 250px;
+    bottom: 515px;
+}
+
+#fifthimage{
+    position:relative;
+    bottom: 500px;
+
+}
+
+.imalink{
+    text-decoration:none;
+}
