@@ -206,3 +206,8 @@ input[type=submit]{
 .imalink{
     text-decoration:none;
 }
+
+a:hover{
+    color:rgb(20, 20, 228);
+}
+
