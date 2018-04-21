@@ -211,3 +211,11 @@ a:hover{
     color:rgb(20, 20, 228);
 }
 
+.imageleft:hover  {
+    opacity:0.3;
+
+}
+
+input:invalid{
+    background-color: rgb(243, 92, 100);
+}
